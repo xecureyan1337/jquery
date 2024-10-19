@@ -1,0 +1,22 @@
+body {
+    font-family: monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    background: orange;
+    /* background-color: aqua; */
+}
+
+#tombol {
+    padding: 10px;
+    color: #fff;
+    background: #34495e;
+    border: none;
+    margin: 10px 0px;
+}
